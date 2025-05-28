@@ -1,3 +1,3 @@
 <?php
-echo "Aquest és el fitxer nou.php creat a la branca develop.";
+echo "Aquesta línia s'ha afegit des de la branca MAIN.";
 ?>
