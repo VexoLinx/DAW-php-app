@@ -1,3 +1,3 @@
 <?php
-echo "Aquesta línia s'ha afegit des de la branca MAIN.";
+echo "Canvi alternatiu fet a la branca DEVELOP";
 ?>
