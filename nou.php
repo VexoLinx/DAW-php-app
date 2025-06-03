@@ -1,3 +1,4 @@
 <?php
-echo "Canvi alternatiu fet a la branca DEVELOP";
+echo "Canvis combinats de MAIN i DEVELOP.";
 ?>
+
